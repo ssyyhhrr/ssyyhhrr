@@ -3,6 +3,7 @@
 
 <h2> Worked On</h2>
 
+- <p><b>syhr.sh</b> - A simple web tool for creating short, memorable and shareable links.</p>
 - <p><b>discord-bearer-token-get</b> - A simple tool to perform a GET request to the Discord OAuth2 API with a Bearer token.</p>
 - <p><b>discord-bearer-token-checker</b> - A simple tool to check a Bearer token's validity using the Discord OAuth2 API.</p>
 - <p><b>discord-bot-token-checker</b> - A simple tool to check whether a Discord bot token can be used for API requests.</p>
