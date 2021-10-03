@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhys</h1>
-<h3 align="center">I'm a computing student in the UK currently studying a Level 3 BTEC National Extended Diploma in Computing & Cyber Security.</h3>
+<h3 align="center">I'm a computing student in the UK currently studying a BSc (Hons) degree in Computer Systems (Cyber Security).</h3>
 
 <h2> Worked On</h2>
 
