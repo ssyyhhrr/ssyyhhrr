@@ -9,7 +9,7 @@
 - <p><b>discord-bot-token-checker</b> - A simple tool to check whether a Discord bot token can be used for API requests.</p>
 - <p><b>discord-bearer-token-generator</b> - A simple tool to generate a Bearer token within a given scope using the Discord OAuth2 API.</p>
 
-- ✨ See more at [https://sy.com.hr](https://sy.hr)
+- ✨ See more at [https://sy.hr](https://sy.hr)
 
 
 <h2> Worked With</h2>
