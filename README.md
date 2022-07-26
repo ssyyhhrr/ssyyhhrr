@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rhys</h1>
-<h3 align="center">I'm a computing student in the UK currently studying a BSc (Hons) degree in Computer Systems (Cyber Security).</h3>
+<h1 align="center">Hey 👋, I'm Rhys</h1>
+<h3 align="center">I'm a 19 year old Cyber Security student from England with a passion for computing. In addition to studying for my BSc (Hons) degree in Computer Systems, I also complete freelance software development work.</h3>
 
 <h2> Worked On</h2>
 
-- <p><b>syhr.sh</b> - A simple web tool for creating short, memorable and shareable links.</p>
+- <p><b>syhr.sh</b> - A simple web tool for creating short, memorable and shareable links written with Node.js.</p>
+- <p><b>stewardle</b> - A Wordle-inspired game designed for the web. Players must guess the randomly selected F1 driver using statistics retrieved from the Ergast API. Created with Express and Node.js.</p>
 - <p><b>discord.py-bot</b> - A simple bot built in discord.py.</p>
-- <p><b>discord-bearer-token-checker</b> - A simple tool to check a Bearer token's validity using the Discord OAuth2 API.</p>
-- <p><b>discord-bot-token-checker</b> - A simple tool to check whether a Discord bot token can be used for API requests.</p>
 
 - ✨ See more at [https://sy.hr/](https://sy.hr/)
 
