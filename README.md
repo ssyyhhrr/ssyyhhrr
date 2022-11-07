@@ -2,7 +2,7 @@
 <h3 align="left">I'm a 19 year old Cyber Security student from England with a passion for computing. In addition to studying for my BSc (Hons) degree in Computer Systems, I also complete freelance software development work.</h3>
 <br>
 <p align="left">
-  <a href="https://sy.hr/youtube"><img src="https://sy.hr/files/youtube_fon.png" alt="YouTube" height="25"></a>&nbsp;&nbsp;
+  <a href="https://sy.hr/youtube" target="_blank"><img src="https://sy.hr/files/youtube_fon.png" alt="YouTube" height="25"></a>&nbsp;&nbsp;
   <a href="https://sy.hr/steam"><img src="https://sy.hr/files/steam.png" alt="Steam" height="25"></a>&nbsp;&nbsp;
   <a href="https://sy.hr/discord"><img src="https://sy.hr/files/discord_f.png" alt="Discord" height="25"></a>&nbsp;&nbsp;
   <a href="https://sy.hr/spotify"><img src="https://sy.hr/files/spotify.png" alt="Spotify" height="25"></a>&nbsp;&nbsp;
