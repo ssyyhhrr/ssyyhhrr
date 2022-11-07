@@ -23,4 +23,5 @@
   <img src="https://sy.hr/files/ubuntu.png" alt="Ubuntu" height="25">&nbsp;&nbsp;
 </p>
 
-✨ See more at [https://sy.hr/](https://sy.hr/)
+<h1 align="left">Contact</h1>
+Rhys Bishop - https://sy.hr/ - mail@rhysbi.shop
