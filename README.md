@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Rhys</h1>
-<h3 align="left">I'm a Cyber Security student from England with a passion for computing. In addition to working as a Cyber Security Analyst at Aston Martin F1 Team while studying for my BSc (Hons) degree in Computer Systems, I also complete freelance software development projects.</h3>
+<h3 align="left">I'm a Cyber Security student from England with a passion for computing. In addition to studying for my BSc (Hons) degree in Computer Systems, I also complete freelance software development work.</h3>
 <p align="left">
   <a href="https://sy.hr/youtube"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/youtube.png" alt="YouTube" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sy.hr/spotify"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/spotify.png" alt="Spotify" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
