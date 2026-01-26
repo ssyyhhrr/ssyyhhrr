@@ -21,4 +21,4 @@
 </p>
 
 <h1 align="left">Contact</h1>
-Rhys Bishop - https://sy.hr/ - mail@rhysbi.shop
+Rhys Bishop - https://rhysbi.shop/ - mail@rhysbi.shop
