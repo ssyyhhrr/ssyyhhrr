@@ -1,11 +1,8 @@
 <h1 align="left">Hey 👋, I'm Rhys</h1>
 <h3 align="left">I'm a Cyber Security Analyst at Aston Martin F1 Team with a long-standing passion for computing. Outside of my professional role, I enjoy creating software projects, experimenting with new ideas, and continuously expanding my skill set.</h3>
 <p align="left">
-  <a href="https://sy.hr/youtube"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/youtube.png" alt="YouTube" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sy.hr/spotify"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/spotify.png" alt="Spotify" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sy.hr/discord"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/discord.png" alt="Discord" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sy.hr/linkedin"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/linkedin.png" alt="LinkedIn" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sy.hr/steam"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/steam.png" alt="Steam" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mail@rhysbi.shop"><img src="https://raw.githubusercontent.com/ssyyhhrr/ssyyhhrr/refs/heads/main/envelope.png" alt="Email" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
